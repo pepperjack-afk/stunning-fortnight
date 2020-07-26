@@ -1,5 +1,5 @@
 # stunning-fortnight
 
-<script>
+"<script>
  alert('gotcha');
 </script>
