@@ -4,4 +4,4 @@
  alert('gotcha');
 </script>
 
-another another   test
+another test
